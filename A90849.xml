@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Pope in a passion; or, Bad news for England. Which was sent in a pacquet of advice from Rome, by Cardinal Howard, to the Popes nuncio; but miscarrying, is now published to prevent danger. : To the tune of, O brave Oliver, or O brave popery, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90849</idno>
+            <idno type="STC">Wing P2918B</idno>
+            <idno type="STC">ESTC R220323</idno>
+            <idno type="EEBO-CITATION">45789383</idno>
+            <idno type="OCLC">ocm 45789383</idno>
+            <idno type="VID">172693</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90849)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172693)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2645:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Pope in a passion; or, Bad news for England. Which was sent in a pacquet of advice from Rome, by Cardinal Howard, to the Popes nuncio; but miscarrying, is now published to prevent danger. : To the tune of, O brave Oliver, or O brave popery, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse, in two columns.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Howard, --  Cardinal.</term>
+               <term>Anti-Catholicism --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="popish_ballad">
+            <pb facs="tcp:172693:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 52 -->
+            <head>THE Pope in a Paſſion; OR, Bad News for England.</head>
+            <head type="sub">Which was ſent in a <hi>Pacquet of Advice</hi> from <hi>Rome,</hi> by Cardinal <hi>Howard,</hi> to the <hi>Popes Nuncio;</hi> but miſcarrying, is now Publiſhed to prevent Danger.</head>
+            <opener>To the Tune of, <hi>O brave Oliver,</hi> or <hi>O brave Popery,</hi> &amp;c.</opener>
+            <lg n="1">
+               <head>I.</head>
+               <l>THE Catholick Poſt, that came lately to Town,</l>
+               <l>Doth tell that the Pope, with his high <hi>Triple Crown,</hi>
+               </l>
+               <l>The toteſtant Churches will quickly pull down:</l>
+               <l>
+                  <hi>Sin hey brave Catholicks, O rare Catholicks, O</hi>
+               </l>
+               <l>
+                  <hi>Fin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Catholicks, Excellent Catholicks, O!</hi>
+               </l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>The No<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>les of <hi>England</hi> muſt all in a row,</l>
+               <l>Buy Pardons, and ſtoop to his Holineſs Toe;</l>
+               <l>Or by Bell, Book and Candle, to Pot they muſt go:</l>
+               <l>
+                  <hi>Sing hey brave,</hi> &amp;c.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>The Catholick King, with our Neighbour of <hi>France,</hi>
+               </l>
+               <l>Will rig an <hi>Armado</hi> with Muſquet and Lance;</l>
+               <l>
+                  <hi>But th' orange</hi> will teach the proud <hi>Lilly</hi> to Dance:</l>
+               <l>
+                  <hi>Sing hey brave,</hi> &amp;c.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>The great <hi>Iriſh</hi> Cut-throat; <hi>Tyrconnel,</hi> that's worſe,</l>
+               <l>That drinks <hi>Bonny-Clabbor,</hi> and Swears by the Croſs,</l>
+               <l>Will Muſter an Army of Bog-trotting Horſe:</l>
+               <l>
+                  <hi>Sing hey brave,</hi> &amp;c.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Then <hi>Bryan</hi> and <hi>Patrick,</hi> with <hi>Morice</hi> and <hi>Teague,</hi>
+               </l>
+               <l>Will batter down <hi>London,</hi> and level the <hi>Hague;</hi>
+               </l>
+               <l>They'll ſtrip you quite naked, and force you to beg;</l>
+               <l>
+                  <hi>Sing hey brave,</hi> &amp;c.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>The hopeful young Innocent Prince of the Scots,</l>
+               <l>Or <hi>Wales,</hi> (choſe you either) by Jeſuit Sots,</l>
+               <l>And old Father <hi>Peters</hi> will Plague you with Plots:</l>
+               <l>
+                  <hi>Sing hey brave,</hi> &amp;c.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>His Holineſs ſwears by his God in the Hoſt,</l>
+               <l>(Before to his Kinſman three Kingdoms be loſt)</l>
+               <l>He'll Conjure by Spells up <hi>Mazareen</hi>'s Ghoſt:</l>
+               <l>
+                  <hi>Sing hey brave,</hi> &amp;c.</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>He wiſely will vanquiſh you, tell you right down,</l>
+               <l>That the <hi>P. of W.</hi> right (tho' himſelf were a Clown)</l>
+               <l>Is as good as <hi>Lodvick</hi>'s was to the French Crown:</l>
+               <l>
+                  <hi>Sing hey brave,</hi> &amp;c.</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>Submit then in time to his <hi>Holineſs</hi> Feet.</l>
+               <l>Both hug them, and kiſs them, they're ſoft and they're ſweet,</l>
+               <l>His Yoak is but eaſie, his Words are diſcreet:</l>
+               <l>
+                  <hi>Sing hey brave,</hi> &amp;c.</l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>He'll fend yon a Preſet.</l>
+               <l>A Buſhel of <hi>Peter</hi>'s Tet of Relicks and Beads,</l>
+               <l>With papeſs <hi>Joan</hi>'s Pleth, two of his Heads, ket, and Nuns that are Maids:</l>
+               <l>
+                  <hi>Sing hey brave,</hi> &amp;c.</l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>He'll ſell you Indulgences,</l>
+               <l>He'll pardon your ſins, whaave you at laſt,</l>
+               <l>He'll teach you the cafieſt way to come, and wha'ts paſt, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow to faſt:</l>
+               <l>
+                  <hi>ſing hey brave,</hi> &amp;c.</l>
+            </lg>
+            <lg n="12">
+               <head>XII.</head>
+               <l>He'll ſend you St. <hi>Anthony</hi>'s Fart in a bag,</l>
+               <l>With Milk in a Bottle, and Hair in a Rag,</l>
+               <l>Which have been long kept by the old Scarlet Hag:</l>
+               <l>
+                  <hi>Sing hey brave,</hi> &amp;c.</l>
+            </lg>
+            <lg n="13">
+               <head>XIII.</head>
+               <l>He'll liberty give you to Rogue and to Whore,</l>
+               <l>To Drink, and to Rant, to Swear and to Roar,</l>
+               <l>And the Devil is in you, if you deſire more:</l>
+               <l>
+                  <hi>ſing hey brave,</hi> &amp;c.</l>
+            </lg>
+            <lg n="14">
+               <head>XIV.</head>
+               <l>But if you'll not do what the Pope doth require,</l>
+               <l>He'll come with his Clergy in Scarlet attire,</l>
+               <l>And teach you good Breeding with Faggot and Fire:</l>
+               <l>
+                  <hi>ſing hey,</hi> &amp;c.</l>
+            </lg>
+            <lg n="15">
+               <head>XV.</head>
+               <l>The Papiſts are Cruel, for they that eat Gods</l>
+               <l>Muſt needs have ſtrong Stomachs, and likewiſe the odds,</l>
+               <l>They'll poiſon your Pulpits, and whip you with Rods:</l>
+               <l>
+                  <hi>ſing hey brave</hi> Catholicks, <hi>O rare</hi> Catholicks, <hi>ho</hi>
+               </l>
+               <l>
+                  <hi>Fine</hi> Carholicks, <hi>Excellent</hi> Catholicks, O!</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>With Allowance.</p>
+            <p>
+               <hi>London:</hi> Printed in the Year, 1689.</p>
+            <pb facs="tcp:172693:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 53 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:172693:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 54 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
